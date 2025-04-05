@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "B+VKYUjcSkkOWFTjVidjzKtdtfObHnSNOo+13S+aSWI=",
+  "Source": "commerceHubApi",
+  "BasePath": "_content/commerceHubApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
